@@ -5,7 +5,7 @@
     do {
         echo "<tr>
     <td>" . $i . "</td>
-    <td>hanif " . $i . "</td>
+    <td>rehan " . $i . "</td>
     </tr>";
         $i++;
     } while ($i < 100);

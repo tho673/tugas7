@@ -7,7 +7,7 @@
     for ($x = 1; $x <= 100; $x++) {
         echo "<tr>
                 <td>$x</td>
-                <td>Hanif $x</td>
+                <td>rehan $x</td>
               </tr>";
     }
     ?>
